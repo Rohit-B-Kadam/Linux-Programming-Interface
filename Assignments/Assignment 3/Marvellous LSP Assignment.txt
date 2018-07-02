@@ -1,0 +1,40 @@
+Note :
+1. Every assignment should be placed in separate folder
+2. Every folder of assinment contains
+	One file which contains our program
+	One file as a header file
+	One makefile to compile our application
+	One readme file which contains description
+3. Every input should be accepted using command line.
+-----------------------------------------------------------------------------------------------------
+15. Write a program which is used to demonstrate concept of I/O redirection.
+
+16. Write a aprogram which accept directory name from user and create new directory of that name.
+
+17. Write a program which accept two file names from user and check whether contents of that two files are equal are not.
+
+18.  Write a program which accept directory name from user and copy first 10 bytes from all regular files into newly created file named as demo.
+
+19. Write a program which accept file name and position from user and read 20 bytes from that position.
+
+20. Write a program which writes structure in file.
+
+21. Write a program which accept file name from user which contains information of emloyee , we have to read all contents of that file.
+
+22. 	Write a program which accept directory name from user and write information of all regular file in and then read the contents from that file.
+
+23. 	Write a program which accept directory name from user and combine all contents of file from that directory into one file named as AllCombine.
+
+24. 	Write a program which accept file name which contains data of all file. We have to create all file again.
+
+25. Write a program which accept file name which contains data of all file. We have to print  all file names whose size is greater that 10 bytes.
+
+26. Write a program which create hole of size 1kb at the end of file.
+
+27. Write a aprogram which accept directory name and file name from user and create file in that directory.
+
+28. Write a program which accept directory name from user and delete all such files whose size is greater than 100 bytes.
+
+29. 	Write a program which accept file name from user and offset, remove all the data from that offset.
+
+30. Write a program which accept directory name from user and create hole in file if size is less than 1kb & if it is greater than 1kb then truncate the remaining data.

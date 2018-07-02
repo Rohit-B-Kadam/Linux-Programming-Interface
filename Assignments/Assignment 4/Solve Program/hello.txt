@@ -1,0 +1,7 @@
+I am studying UNIX System V release 4.  
+IPC Inter Process Communication.
+1. Named Pipe.
+2. Unnamed Pipe.
+3. Signal.
+4. Memory Sharing.
+5. Message queue.

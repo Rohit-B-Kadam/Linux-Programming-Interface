@@ -1,0 +1,4 @@
+Capital letter in demo.txt file is 6
+Capital letter in hello.txt file is 21
+Capital letter in hello.txt file is 21
+Capital letter in demo.txt file is 6
